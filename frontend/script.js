@@ -1,5 +1,5 @@
 // base URL for the backend API - change this if the backend is hosted elsewhere later
-const API_BASE = "http://127.0.0.1:8000";
+const API_BASE = "https://smart-crop-recommendation-system-jdj4.onrender.com";
 
 // grabbing references to all the HTML elements needed
 const form = document.getElementById("cropForm");
