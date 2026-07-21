@@ -84,19 +84,6 @@ main {
   font-family: 'Helvetica Neue', Arial, sans-serif;
 }
 
-/* .field label {
-  font-size: 0.8rem;
-  font-weight: 600;
-  color: var(--ink-soft);
-  text-transform: uppercase;
-  letter-spacing: 0.4px;
-}
-
-.field label span {
-  font-weight: 400;
-  text-transform: none;
-  color: #9a9280;
-} */
 
 .field label {
     display: flex;
