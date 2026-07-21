@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+backend/reports/
+.venv/
+venv/
+*.log
